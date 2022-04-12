@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">laboratorio04_huamani</string>
+
+    <string name="txtgrid">MENU PRINCIPAL</string>
+
+    <string name="menu">Menu Principal</string>
+
+
+    <string name="btnvolvermenu_gridview">Regresar Menu Principal</string>
+    <string name="btngridview">GridView</string>
+    <string name="btnregistrardatos">Registrar Datos de Persona</string>
+    Datos Persona
+    <string name="datospersona">Datos de Persona</string>
+    <string name="txtnombre">Nombres</string>
+    <string name="txtapellido">Apellidos</string>
+    <string name="txttelefono">Telefono</string>
+    <string name="btngrabarpersona">Grabar</string>
+    <string name="tvmostrarpersona">Respuesta</string>
+
+</resources>
